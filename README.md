@@ -8,4 +8,4 @@ I love to meet new people and talk about life and technology.
 - 👧 My daughter teaches me new things daily.
 - 🌱 I’m actively learning more about Azure and container orchestration
 - 🏑 / 🏍 I love motorcycles and hockey!
-- 📫 You can reach me at https://automatingops.com/ or via Twitter! 
+- 📫 You can reach me at https://automatingops.com/ or via Mastodon! 
